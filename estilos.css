@@ -1,0 +1,42 @@
+
+body{background-color: black;}
+
+h1{background-color: rgb(0, 0, 0); font: size 20;}
+
+h3{
+    color: black;
+    background-color: yellow; 
+    font-family: fantasy; 
+    font-weight: lighter;
+    padding: 20px auto;
+    margin: 20px 0px;
+}
+
+h2{background-color: yellow;
+   font-family: fantasy; 
+   font-weight: lighter;
+   padding: 20px auto;
+   margin: 20px 0px;
+
+}
+
+.Vinpers_logo{
+    padding: 20px 600px 0;
+}
+
+.Productos { 
+    background-color: snow;
+    padding: 20px 600px 0;
+    font-family: fantasy; 
+    font-weight: lighter;
+    margin: 20px 0px;
+}
+
+.social{
+    text-align: center;
+    padding: 20px 600px 0;
+    font-family: fantasy; 
+    font-weight: lighter;
+    margin: 20px 0px; 
+}
+
